@@ -1,0 +1,16 @@
+blinker==1.8.2
+certifi==2024.2.2
+charset-normalizer==3.3.2
+click==8.1.7
+colorama==0.4.6
+Flask==3.0.3
+Flask-Cors==4.0.1
+idna==3.7
+itsdangerous==2.2.0
+Jinja2==3.1.4
+jsonify==0.5
+MarkupSafe==2.1.5
+numpy==1.26.4
+requests==2.32.2
+urllib3==2.2.1
+Werkzeug==3.0.3

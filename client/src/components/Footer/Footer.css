@@ -1,0 +1,45 @@
+.ftr {
+ 
+    width: 100%;
+    height: 170px;
+    background-color: #c8edfd;
+    border-top: 1px solid #f0f0f0;
+    box-sizing: border-box;
+    box-shadow: 0px 2px 4px rgba(0,0,0,0.08);
+    margin-top: 40px;
+    display:flex;
+    justify-content: space-between;
+    padding: 20px;
+  
+  }
+  .ftr .f2{
+    text-align: right;
+    margin: 0;
+    font-size: 15px;
+  }
+  
+  .ftr .f1 {
+    text-align: left;
+  }
+  
+  .ftr .f1 h6 {
+    margin-left: 0;
+  }
+  
+  .ftr h2, .ftr h3, .ftr h6 {
+    margin: 0;
+  }
+  
+  .ftr h6 {
+    margin: 10px;
+    font-weight: 300;
+    color: rgb(77, 77, 77);
+  }
+  
+  .ftr h5 {
+    margin-top: 70px;
+    margin-bottom: 0;
+    font-weight: normal;
+  }
+  
+  
