@@ -49,14 +49,6 @@ Decreases flight time
 - `numpy`
 - `reactjs`
 
-## Contributors
-
-1. Sachin Verma.
-2. Aji Jijo.
-3. Nandini Gour.
-4. Pabbithi Badri.
-5. Sachin Pathak.
-
 ## Presentation
 
 https://drive.google.com/file/d/1FsWGGooKVjQ9Io5tHYqSbfIi6-23OdS0/view?usp=drive_link
